@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afe6426e.css",
+    "main.js": "/static/js/main.631dae31.js",
+    "static/media/ChessSet.jpg": "/static/media/ChessSet.1a3a332a4308470a62f8.jpg",
+    "static/media/speaker_4xjhrgiex55n.svg": "/static/media/speaker_4xjhrgiex55n.f2d83b52bdde00885803d1a9148bfd33.svg",
+    "index.html": "/index.html",
+    "static/media/menu_vpnpy0k6arb0.svg": "/static/media/menu_vpnpy0k6arb0.d2307a3d309e9443dd15581bf3846b30.svg",
+    "main.afe6426e.css.map": "/static/css/main.afe6426e.css.map",
+    "main.631dae31.js.map": "/static/js/main.631dae31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afe6426e.css",
+    "static/js/main.631dae31.js"
+  ]
+}
